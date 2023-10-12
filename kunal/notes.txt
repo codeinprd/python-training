@@ -1,0 +1,23 @@
+/Users/aviralvishnoi/Documents-local/work/classes/python/kunal
+kunal
+/Users/aviralvishnoi/Documents-local/work/classes/python
+
+
+
+conventions
+
+
+variable
+
+area_of_square = side ** 2
+
+
+snake_case_convention_is_this
+is used for functions, variables
+
+
+classes - AreaOfSquare
+
+
+
+camelCaseConventionIsThis

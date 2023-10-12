@@ -1,0 +1,38 @@
+What we have done so far!
+
+- execute python program/code from vscode using python plugin
+- execute python program/code from terminal in vscode
+- execute python program/code from terminal/command prompt
+
+Topics covered so far:
+code execution
+basics of data types
+how to create a function and call it in a python program
+f strings
+string concatenation
+
+c:/users/jatin/self-development/python/
+
+classes
+function
+variables
+dataypes
+varchar, varchar2, text string
+int, bigint, smallint int
+float, double float
+boolean bool
+json dict
+{
+"Name": "Aviral",
+"Age": 30,
+"Student": false,
+"Height": 5.11
+}
+list/tuples [1,2,3,4]
+
+logics
+
+name = 'Aviral'
+
+snake case => variable_name
+camelCase => varialeNameIsThis

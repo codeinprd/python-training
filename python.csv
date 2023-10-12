@@ -1,0 +1,156 @@
+1. Introduction of Python
+    1. Overview of Python
+    2. Installing Python
+    3. Creating and Executing a Python Script
+    4. Running Python Code Interactively
+    5. IDLE: Python's built-in IDE
+    6. Getting Help in Python
+
+2. Getting Started with Python
+    1. Keywords and Identifiers
+    2. Python Data Types
+    3. Variables
+    4. Operators
+    5. Expressions
+    6. Statements
+    7. Input/output and Comments
+    8. Introduction to Python Data Structures
+
+3. Strings
+    1. Introduction to Strings
+    2. String Slicing
+    3. Combining and Repeating Strings
+    4. String Methods
+    5. Escape Sequences and Raw Strings
+    6. String Formatting
+
+4. Lists and Tuples
+    1. Introduction to Lists
+    2. Indexing and Slicing
+    3. Adding and Removing Elements
+    4. Sorting and Reversing a List
+    5. Concatenation and Repetition
+    6. Nested Lists
+    7. Copying a List
+    8. Shallow Copy and Deep Copy
+    9. Introduction to Tuples
+    10. Tuple Packing and Unpacking
+
+5. Dictionaries and Sets
+    1. Introduction to Dictionaries
+    2. Dictionary Methods
+    3. Creating Dictionaries
+    4. Nested Dictionaries
+    5. Aliasing and Deep Copy
+    6. Introduction to Sets
+    7. More about Sets
+
+6. Conditional Execution
+    1. Introduction to Control Structures
+    2. Conditional Processing using the if statement
+    3. else Clause
+    4. elif Clause
+    5. Truthiness
+    6. Revisiting 'or' and 'and' Operators
+    7. if-else Operator
+
+7. Loops
+    1. while Loop
+    2. while Loop Examples
+    3. for Loop
+    4. Unpacking in for Loop Header
+    5. Iterating over Dictionaries and Sets
+    6. Counter Loops using range()
+    7. Nested Loops
+    8. break Statement
+    9. More on break Statement
+    10. continue Statement
+    11. else Block in Loops
+    12. pass Statement
+
+8. Looping Techniques
+    1. Introduction
+    2. Using sorted(), reversed(), and set() in for Loop
+    3. Index-based for Loops
+    4. Generating both Index and Item using enumerate()
+    5. Parallel Traversals using zip() in Python
+    6. Modifying a List while Iterating
+
+9. Comprehensions in Python
+    1. List Comprehensions in Python
+    2. Avoiding Aliasing using List Comprehensions
+    3. If Clause
+    4. Multiple for Clauses and Nested List Comprehension
+    5. Dictionary Comprehensions in Python
+    6. Set Comprehensions in Python
+
+10. Functions
+
+11. Modules
+    1. Introduction to Modules
+    2. from Statement
+    3. Structure of a Multifile Python Program
+    4. if __name__ == '__main__'
+
+12. Scopes and Namespaces
+    1. Namespaces
+    2. Scopes
+    3. Name Resolution
+    4. global Statement
+    5. nonlocal Statement
+
+13. Files
+    1. Introduction
+    2. Opening a File
+    3. Text and Binary Files
+    4. Closing a File
+    5. with Statement
+    6. Random Access
+    7. Reading a File
+    8. Writing to a File
+    9. Some File-Related Programs
+    10. Command Line Arguments
+    11. Pickling
+
+14. OOPS
+    1. Introduction to Python Object-Oriented Programming (OOP)
+    2. Classes and Objects
+    3. Initializer Method
+    4. Data Hiding
+    5. Property
+    6. Class Variables
+    7. Class Methods
+    8. Static Methods
+    9. Magic Methods - 1
+    10. Magic Methods - 2
+    11. Magic Methods - 3
+    12. Inheritance in Python
+    13. Multiple Inheritance
+    14. MRO and super()
+    15. Polymorphism in Python
+
+15. Iterator and Generators
+    1. Iterables and Iterators
+    2. How for Loop and Other Iteration Tools Work
+    3. Supporting Single Iteration or Multiple Iteration
+    4. Creating Your Own Iterators
+    5. Making Your Own Class Iterable
+    6. Some More Iterators
+    7. Lazy Evaluation
+    8. Itertools Module
+    9. Generators
+    10. Generator Expressions
+
+16. Decorators
+    1. Prerequisite Review
+    2. Introduction to Decorators
+    3. Decorator Examples and Applications
+    4. Decorating Functions with Parameters in Python
+    5. Applying Multiple Decorators
+    6. Using wraps Decorator from functools Module
+    7. Decorators with Parameters
+    8. Decorating Classes
+    9. Class Decorators in Python
+    10. Class Decorators with Arguments
+
+17. Coding standard and best practices
