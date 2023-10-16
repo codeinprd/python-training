@@ -1,0 +1,13 @@
+application --> print("This is the draft version of application")  --> master and develop
+
+
+
+
+print("This is the actual version of application")
+feature
+develop
+
+
+
+git init -> Initialzie an empty repository locally
+git checkout -b <branch_name> -> Create a new branch from the current branch in your local
