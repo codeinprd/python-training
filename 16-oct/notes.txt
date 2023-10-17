@@ -1,8 +1,5 @@
 application --> print("This is the draft version of application")  --> master and develop
 
-
-
-
 print("This is the actual version of application")
 feature
 develop
@@ -18,3 +15,25 @@ git add <files to be staged/modified> -> Stage our uncomitted changes
 git commit -m <commit message> -> It commits your change with a commit message
 git push                       -> Push your changes to remote branch
 git pull                       -> Pulls your remote repository branches locally
+
+
+branches used across organization
+master/main   
+develop  
+release
+hotfix
+feature
+
+Environments
+(DTAP)
+Development
+Test
+Acceptance
+Production
+
+branch-Environments mapping
+master/main    Production
+develop   Test
+release   Acceptance
+hotfix
+feature   Development
