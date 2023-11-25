@@ -1,0 +1,78 @@
+1. Introduction of AWS Cloud Developement Kit(CDK)
+    1. What is CDK
+    2. Benefits of CDK
+    3. Installing CDK 
+2. Basics of AWS CloudFormation
+    1.Understanding CloudFormation
+    2. Creating Resources using CloudFormation
+    3. Challenges with CloudFormation and need of CDK
+3. CDK Basics
+    1. Creating first AWS resource using AWS CDK
+    2. Understanding the code structure of CDK
+    3. Deploying your first CDK constructs.
+4. Bootstraping your first template
+    1. What is mean by bootstraping the AWS Env.
+    2. What is the need to bootstraping the AWS Env.
+    3. Understand the resources created by bootstraping
+    4. Basics command used for CDK build, synth, deploy.
+5. CDK Constructs
+    1. What is CDK constructs
+    2. What is L1 , L2 and L3 constructs.
+    3. Example of L1, L2 and L3 constructs
+6. CDK Deep dive 
+    1. Creating CDK repo using cdk init command.
+    2. Understanding cdk.out
+    3. Understanding cdk.json 
+    4. Deep dive in cdk synth and deploy with options
+    5. Plan and Visualize your resources using CDK diff
+    6. Destroying your CDK resources.
+7. CDK Stack : Resource and Reusability
+    1. Creating CDK and resue how to re-use it.
+    2. Example of creating re-usable constructs in code.
+    3. DTAP in CDK : Multi env deployment.
+    4. Deploying CDK Stacks to Multiple AWS Region and Accounts.
+    5. CDK Context variable and how to use it in code.
+    6. Passing Env variable using cdk.json File
+    7. Adding tags to resources.
+    8. Tagging All resources in Stacks.
+    9. Stack output using CDK
+    10. Importing existing resource using CDK.
+8. Create and Deploy Serverless application using CDK.
+    1. Creating S3 bucket constructs.
+    2. Creating IAM role constructs.
+    3. Creating Lambda Functions constructs
+    4. Creating DynamoDB table constructs.
+    5. Wring lambda function in Python using boto3 to read S3 event, process and write to DynamDb table.
+    6. Reusing all in main Stack file.
+    7. Synth and check the cdk.out folder.
+    8. Deploy resource using cdk deploy.
+    8. Chek the resources in AWS and test it.
+9. Creating Networking resources using CDK
+    1. Create VPC, subnet , security groups using CDK and store it in SSM Parameters Store.
+    2. Create EC2 using CDK and deploy it.
+    3. Host a example website on EC2.
+10. VPC Peering using CDK:
+    1. Scenario-1: VPC peering within same account.
+    2. Scenario-2 : VPC peering with in Same account and different region.
+    3. Scenario-3 : VPC peering with different account and same region.
+    4. Scenario-4 : VPC peering with different accoutn and differnet region.
+11. Step Function example with CDK:
+    1. basics of Step function.
+    2. Components of Step function constructs in CDK.
+    3. Creating One end-to-end scenario in Step function using CDK.
+12. Create Microservice architecture using CDK
+    1. Create API Gateway, Lambda and DynamoDB using CDK.
+    2. Deploy using CDK and test it.
+13. Testing your CDK Infra.
+    1. How to test your CDK Infra.
+    2. Unit test and Snapshot test with example.
+14. Serverless DynamoDB Event processor Architecture with DynamoDB streams.
+15. Deploy a static wersite using CDK.
+16. Event based using Architecture using EventBridge and Event rule.
+17. Cross region and Cross Account Deployment scenarios with Examples in CDK.
+18. Fan-out Event based architecture using CDK.
+
+
+ 
+
+

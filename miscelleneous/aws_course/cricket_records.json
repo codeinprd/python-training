@@ -1,0 +1,57 @@
+{
+    "cricket": [
+        {
+            "test_records": {
+                "batting_records" : {
+                    "most_runs" : [
+                        {
+                            "sachin" : 15000
+                        },
+                        {
+                            "sangkara" : 14000
+                        },
+                        {
+                            "Kallis" : 13500
+                        }
+                    ],
+                    "most_centuaries" : [
+                        {
+                            "sachin" : 51
+                        },
+                        {
+                            "sangkara" : 37
+                        },
+                        {
+                            "Kallis" : 43
+                        }
+                    ]
+                },
+                "bowling_records" : [
+                    {
+                        "nurlidharan" : 800
+                    },
+                    {
+                        "warne" : 708
+                    },
+                    {
+                        "anderson" : 680
+                    }
+                ]
+            }
+        },
+        {
+            "odi_records": {
+                "team_records" : [],
+                "batting_records" : [],
+                "bowling_records" : []
+            }
+        },
+        {
+            "t20_records": {
+                "team_records" : [],
+                "batting_records" : [],
+                "bowling_records" : []
+            }
+        }
+    ]
+}

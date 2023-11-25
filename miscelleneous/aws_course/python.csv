@@ -13,7 +13,7 @@
     4. Operators
     5. Expressions
     6. Statements
-    7. Input/output and Comments -- Input is pending
+    7. Input/output and Comments
     8. Introduction to Python Data Structures
 
 3. Strings
@@ -41,16 +41,16 @@
     2. Dictionary Methods
     3. Creating Dictionaries
     4. Nested Dictionaries
-    5. Aliasing and Deep Copy -- pending
-    6. Introduction to Sets -- pending
-    7. More about Sets -- pending
+    5. Aliasing and Deep Copy
+    6. Introduction to Sets
+    7. More about Sets
 
 6. Conditional Execution
     1. Introduction to Control Structures
     2. Conditional Processing using the if statement
     3. else Clause
     4. elif Clause
-    5. Truthiness - pending
+    5. Truthiness
     6. Revisiting 'or' and 'and' Operators
     7. if-else Operator
 
@@ -62,11 +62,11 @@
     5. Iterating over Dictionaries and Sets
     6. Counter Loops using range()
     7. Nested Loops
-    8. break Statement - pending
-    9. More on break Statement - pending
-    10. continue Statement - pending
-    11. else Block in Loops - pending
-    12. pass Statement - pending
+    8. break Statement
+    9. More on break Statement
+    10. continue Statement
+    11. else Block in Loops
+    12. pass Statement
 
 8. Looping Techniques
     1. Introduction

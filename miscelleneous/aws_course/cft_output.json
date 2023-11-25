@@ -1,0 +1,34 @@
+{
+    "StackSummaries": [
+        {
+            "StackId": "arn:aws:cloudformation:eu-central-1:223904806352:stack/StackSet-AWSControlTowerBP-VPC-ACCOUNT-FACTORY-V1-e7c29eab-fed4-40bc-b3e3-a3d39b5973c3/1427d9f0-4a4c-11ee-97d7-02df5a1fe611",
+            "StackName": "StackSet-AWSControlTowerBP-VPC-ACCOUNT-FACTORY-V1-e7c29eab-fed4-40bc-b3e3-a3d39b5973c3",
+            "TemplateDescription": "This template creates a Multi-AZ, multi-subnet VPC infrastructure with managed NAT gateways in the public subnet for each Availability Zone. You can also create additional private subnets with dedicated custom network access control lists (ACLs) - (SO0051).",
+            "CreationTime": "2023-09-03T11:21:51.300000+00:00",
+            "StackStatus": "CREATE_COMPLETE",
+            "DriftInformation": {
+                "StackDriftStatus": "NOT_CHECKED"
+            }
+        },
+        {
+            "StackId": "arn:aws:cloudformation:eu-central-1:223904806352:stack/StackSet-AWSControlTowerBP-BASELINE-CONFIG-edc23973-bee6-4b63-aaa3-13e3d4be3ae0/0ebcf050-4a4b-11ee-aa8f-0a0e269f5fe8",
+            "StackName": "StackSet-AWSControlTowerBP-BASELINE-CONFIG-edc23973-bee6-4b63-aaa3-13e3d4be3ae0",
+            "TemplateDescription": "Configure AWS Config",
+            "CreationTime": "2023-09-03T11:14:32.689000+00:00",
+            "StackStatus": "CREATE_COMPLETE",
+            "DriftInformation": {
+                "StackDriftStatus": "NOT_CHECKED"
+            }
+        },
+        {
+            "StackId": "arn:aws:cloudformation:eu-central-1:223904806352:stack/StackSet-AWSControlTowerBP-BASELINE-CLOUDWATCH-98867f00-dcd8-4674-ab60-722b8531371d/0e9b1070-4a4b-11ee-8f62-023197e92e60",
+            "StackName": "StackSet-AWSControlTowerBP-BASELINE-CLOUDWATCH-98867f00-dcd8-4674-ab60-722b8531371d",
+            "TemplateDescription": "Configure Cloudwatch Rule, local SNS Topic, forwarding notifications from local SNS Topic to Security Topic",
+            "CreationTime": "2023-09-03T11:14:32.462000+00:00",
+            "StackStatus": "CREATE_COMPLETE",
+            "DriftInformation": {
+                "StackDriftStatus": "NOT_CHECKED"
+            }
+        }
+    ]
+}

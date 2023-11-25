@@ -1,0 +1,79 @@
+1. What is AWS?
+2. Why AWS?
+3. Benefits of Moving to the Cloud!
+4. Overview of Services Provided by AWS
+5. Free Learning AWS Account Setup
+6. IAM and AWS CLI
+7. AWS Billing
+8. CloudFormation, CodeBuild, and CodePipeline
+9. Serverless Services
+    1. S3
+    2. SQS
+    3. SNS
+    4. Lambda
+    5. DynamoDB
+    6. Step Functions
+    7. EventBridge
+    8. API Gateway
+10. Networking Services
+    1. VPC
+    2. Subnet
+    3. Security Group
+    4. Route Table
+    5. Internet Gateway
+    6. VPC Peering
+11. Compute Services
+    1. EC2 and EBS
+    2. ASG
+    3. Load Balancer
+    4. ECS
+    5. ALB
+    6. NLB
+    7. Lambda
+12. Storage Services
+    1. S3
+    2. RDS
+    3. Redshift
+    4. EFS
+    5. EBS
+    6. Storage Gateway
+13. Logging and Monitoring
+    1. CloudWatch
+        - Logs
+        - Metrics
+        - Alarms
+    2. CloudTrail
+14. Data Analytics
+    1. Glue
+    2. Athena
+    3. Redshift Spectrum
+    4. Kinesis Firehose
+    5. Kinesis Streaming
+15. Data Migration Service
+    1. DMS
+16. Security
+    1. IAM
+    2. KMS
+    3. Security Hub
+    4. GuardDuty
+    5. Config
+    6. WAF
+    7. Shield
+    8. CloudFront
+17. Advanced Topics
+    1. VPC Flow Logs
+    2. Transit Gateway
+    3. VPC Peering
+    4. AWS Organization
+    5. PrivateLink
+    6. Cost Optimization
+18. Use Cases
+    1. Serverless Website
+    2. File-Based Ingestion
+    3. Data Processing using Glue and Athena
+    4. Webserver on EC2 using Reverse Proxy
+    5. Demo Autoscaling of EC2
+    6. Kinesis Use Case
+    7. Cross-Account Deployments
+    8. Event processing using Step functions
+19. boto3

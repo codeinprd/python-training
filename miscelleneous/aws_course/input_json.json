@@ -1,0 +1,46 @@
+{
+    "records": [
+        {
+            "player_name": "virat kohli",
+            "country_name": "India",
+            "player_type": "batsman",
+            "play_all_format": "yes"
+        },
+        {
+            "player_name": "Ben Stokes",
+            "country_name": "UK",
+            "player_type": "all-rounder",
+            "play_all_format": "yes"
+        },
+        {
+            "player_name": "Pat Cummins",
+            "country_name": "Australia",
+            "player_type": "bowler",
+            "play_all_format": "yes"
+        },
+        {
+            "player_name": "Surya Kumar Yadav",
+            "country_name": "India",
+            "player_type": "batsman",
+            "play_all_format": "no"
+        },
+        {
+            "player_name": "Adam Zampa",
+            "country_name": "Australia",
+            "player_type": "bowler",
+            "play_all_format": "no"
+        },
+        {
+            "player_name": "Steve Smith",
+            "country_name": "Australia",
+            "player_type": "batsman",
+            "play_all_format": "no"
+        },
+        {
+            "player_name": "Jaspit Bumrah",
+            "country_name": "India",
+            "player_type": "bowler",
+            "play_all_format": "yes"
+        }
+    ]
+}
